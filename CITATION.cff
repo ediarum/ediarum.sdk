@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: ediarum.sdk
+abstract: "ediarum.sdk is the shared Python package of the ediarum backend services: platform authentication, a debounced file watcher and a client for the platform project registry."
+type: software
+authors:
+  - family-names: Vogl
+    given-names: Malte
+version: 0.3.1
+date-released: "2026-11-05"
+license: "MIT"
+url: "https://www.ediarum.org"

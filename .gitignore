@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.pytest_cache
+
+# Test and coverage output (pytest-cov, CI reports)
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+junit.xml
+
+# Local state
+.env
